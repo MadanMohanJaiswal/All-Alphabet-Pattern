@@ -1,0 +1,1 @@
+# All-Alphabet-Pattern
